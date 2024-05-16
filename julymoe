@@ -1,0 +1,542 @@
+Test Case 1. To verify that FazWaz browser is accessible and responsive on Laptop browser (Microsoft Edge)
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on Laptop browser (Microsoft Edge).
+Expected Result: User should be accessible without any visual or functionality issues.
+
+Test Case 2. To verify that FazWaz browser is accessible and responsive on Laptop browser (Firefox)
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on Laptop browser (Firefox).
+Expected Result: User should be accessible without any visual or functionality issues.
+
+Test Case 3. To verify that FazWaz browser is accessible and responsive on Laptop browser (Chrome)
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on Laptop browser (Chrome).
+Expected Result: User should be accessible without any visual or functionality issues.
+
+Test Case 4. To verify that FazWaz browser is accessible and responsive on Laptop browser (Safari)
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on Laptop browser (Safari).
+Expected Result: User should be accessible without any visual or functionality issues.
+
+Test Case 5. To verify that FazWaz browser is accessible and responsive on mobile browser (Chrome)
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser (Chrome).
+Expected Result: User should be accessible without any visual or functionality issues.
+
+Test Case 6. To verify that FazWaz browser is accessible and responsive on mobile browser (Firefox)
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser (Firefox).
+Expected Result: User should be accessible without any visual or functionality issues.
+
+Test Case 7. To verify that FazWaz browser is accessible and responsive on mobile browser (Safari)
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser (Safari).
+Expected Result: User should be accessible without any visual or functionality issues.
+
+Test Case 8. To verify that FazWaz browser is accessible and responsive on mobile browser (default browser)
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser (default browser).
+Expected Result: User should be accessible without any visual or functionality issues.
+
+Test Case 9. To verify that search box is prominently displayed at the top of the page
+
+Steps: Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+
+Expected Result: 
+1.Search box should be prominently displayed at the top of the page.
+2.Thailand should be automatically displayed withing the search box.
+3.Search button should be displayed with blue and white color.
+
+Test Case 9. To verify that autocomplete suggestions are provided when the user types in the search box.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Enter Pathum in the search box.
+
+Expected Result: 
+1.	System should display autocomplete suggestions based on the entered characters. ( For example , if customer enter Pathum in the search box , system should display province, district, sub-district, or project including “Pathum”.
+
+Test Case 10. To verify that user can search by entering location.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Enter location which is province or district or sub-district in the search box.
+
+Expected Result: 
+1.	System should display everything related to user entered location.
+2.	System should display in recommended sorting.
+
+Test Case 11. To verify that user can search by entering station.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Enter station in the search box.
+Expected Result: 
+1.	System should display everything relevant to user entered station.
+2.	System should display in recommended sorting.
+
+
+Test Case 12. To verify that user can search by entering project name.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Enter project name in the search box.
+
+Expected Result: 
+1.	System should display everything relevant to user entered project name.
+2.	System should display in recommended sorting.
+
+Test Case 13. To verify that user can search by entering unit ID.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Enter unit ID in the search box.
+
+Expected Result: 
+1.	System should display everything relevant to user entered unit ID.
+2.	System should display in recommended sorting.
+
+Test Case 14. To verify that user can filter search results by price range.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Tap on Any Price
+3.Select minimum and maximum price.
+
+Expected Result: 
+1.	Search results should be filtered according to the selected criteria.
+
+Test Case 15. To verify that user can filter search results by number of bedrooms.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Tap on Beds
+3.Select  Studio+ or 1+ or 2+ or 3+ or 4+
+4.Click on “Use exact match”.
+
+Expected Result: 
+1.	Search results should be filtered according to the selected criteria.
+
+Test Case 16. To verify that user can filter search results by proper type.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Tap on Proper Type
+3.Select Residential.
+4.Choose Houses
+
+Expected Result: 
+1.	Search results should be filtered according to the selected criteria.
+
+Test Case 17. To verify that user can filter search results by specific features.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Tap on Features
+3.Select Views or Property Features or Project Amenities.
+
+Expected Result: 
+1.	Search results should be filtered according to the selected criteria.
+
+Test Case 18. To verify that user can filter search results by selecting from More.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Tap on More
+3.Select one thing
+
+Expected Result: 
+1.	Search results should be filtered according to the selected criteria.
+
+Test Case 19. To verify that Save Search button is working.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select one filter
+3.Tap on Save Search button
+4. Refresh browser which is currently using.
+
+Expected Result: 
+1. Search results should be filtered according to the selected criteria.
+2.After refreshing browser, user saved filter shouldn’t be changed.
+
+Test Case 20. To verify that Reset Search button is working.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select one filter
+3.Tap on Save Search button
+4. Tap on Reset Search button
+
+Expected Result: 
+1.After tapping on Reset Search button, all of the display should be back to autocomplete suggestions.
+
+Test Case 21. To verify that user can sort search results.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Tap on Sort
+3.Select one sorting
+
+Expected Result:
+1. Search results should be sorted according to the selected criteria.
+
+Test Case 22. To verify that data are correctly displayed at Sorting button.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Tap on Sort
+
+Expected Result:
+Below data should display when we tap on Sorting button.
+Sort: Recommended
+Sort: New Listings First
+Sort: Price (low to high)
+Sort: Price (high to low)
+Sort: Best Value for Money
+Sort: Biggest Price Reduction (%)
+Sort: Highest Rental Yields
+Sort: With Video Tours First
+Sort: Living Area
+Sort: Bedrooms
+Sort: Plot Size
+Sort: Completion Date
+Sort: Price per SqM
+Sort: Last Updated
+
+Test Case 23. To verify that 30 properties are displayed per page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+
+Expected Result:
+1.30 properties should be displayed per page.
+
+Test Case 24. To verify that each property is displayed including images, title, price, price per square meter, description, plot size, property type, and features.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+
+Expected Result:
+1.	Each property item should display 5 images, title, price, price per square meter, description, plot size, property type, and features as specified.
+
+Test Case 25. To verify that clicking on a property item opens the property detail page in a new tab.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Click on one property
+
+Expected Result:
+1.	The property detail page should open in a new tab, allowing users to access more information about the property without losing their place in the search results.
+
+Test Case 26. To verify that save button is working at the property detail page .
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.Click on Save button
+
+Expected Result:
+1.System should display Success alert box including “Added property to your favorites list” message
+2.User should be able to search again at My Favorites|Compare under My Account
+
+
+Test Case 27. To verify that Compare button is working at the property detail page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.Click on Compare button
+
+Expected Result:
+1.System should display Success alert box including “Added property to your compare list” message
+2.User should be able to search again My Favorites |Compare under My Account
+
+
+Test Case 28. To verify that Map is showing together with property page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+
+Expected Result:
+1.Map should be displayed next to property page
+
+Test Case 29. To verify that search feature is working by moving in the map.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Move to your favorite place in the map.
+
+Expected Result:
+1.Search results should be displayed as per moving in the map.
+
+Test Case 30. To verify that search results are displaying by drawing in the map.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Draw a shape around the regions you like in Map
+3.Tap on Apply
+
+Expected Result:
+1.Search results should be displayed as per drawing the regions in the map.
+
+Test Case 31. To verify that Exit Draw button is working in the map.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Draw a shape around the regions you like
+3.Tap on Apply
+4. Tap on Exit Draw button
+
+Expected Result:
+1.Property page should be displayed as usual after tapping on Exit Draw button.
+
+Test Case 32. To verify that share button is working at the property detail page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.Click on Share button
+
+Expected Result:
+1.	Share channels should be displayed after tapping share button.
+2.	User should be able to share by choosing their favorite one.
+
+Test Case 33. To verify that Print button is working at the property detail page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.Click on Print button
+
+Expected Result:
+1.	System should redirect to another tap to print.
+2.	All information should display correctly after printing.
+
+Test Case 34. To verify that user can write a review at the property detail page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.Click on Write a review button
+4.Select rating and enter detail information.
+5.Tap on Submit your review.
+
+Expected Result:
+1.	System should display success alert box.
+2.	User should be managed their reviews at My reviews under My Account
+
+
+Test Case 35. To verify that user should be able to request details at the property page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.Tap on Request Details
+4.Enter information and tap on Send Now
+
+Expected Result:
+1.System should display Contact successful alert box
+2.After tapping on Close, alert box should be closed
+
+Test Case 36. To verify that user should be able to schedule view at the property  page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.Tap on Schedule Viewing
+4.Pick a date, time and enter you preferred language
+5. Tap on Confirm.
+Expected Result:
+1.System should display successful alert box
+
+
+
+Test Case 36. To verify that BACK TO TOP button is working at the property page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.Go to the end of the page
+4.Tap on “BACK TO TOP” 
+
+Expected Result:
+1.User should be redirected to top of the page
+
+
+Test Case 37. To verify that rating, updated status and listing status at the property  page.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+
+Expected Result:
+1.It should display rating, updated status and listing status for each property
+2.If there is no rating or updated status or listing status, it should display nothing
+
+Test Case 38. To verify that user can filter search filters by completion status.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Select on one property
+3.At completion status, select OffPlan or completed
+
+Expected Result:
+1.	Search results should be filtered according to the selected criteria.
+
+
+Test Case 39. To verify that user can change language Under Settings.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under Settings, tap on Language
+4.Select one language
+
+Expected Result:
+1.	The whole system and pages should change to language as per selected.
+
+Test Case 40. To verify that user can change price Under Settings.
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under Settings, tap on Price Change
+4.Select one currency
+
+Expected Result:
+1.	All the price should change to currency as per selected
+
+
+Test Case 41. To verify that menus are correctly displayed at Dashboard
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under My Account, click on Dashboard
+
+
+Expected Result:
+1.	At Dashboard section, it should display My Account , My Favorites|Compare , My Reviews , Recently Viewed Properties, Saved Searches, Scheduled Viewings and Notifications Preferences.
+
+Test Case 42. To verify that user can unsubscribe form all  sale notifications
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under My Account, click on Notifications Preferences.
+4.Click on “Unsubscribe me from all sale notifications”.
+
+
+Expected Result:
+1.System should display successful alert box
+
+
+Test Case 43. To verify that user can edit profile
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under My Account, click on My Account.
+4.Enter update information
+5.Click on Save Profile
+
+
+Expected Result:
+1.User information should be updated
+
+Test Case 44. To verify that user can delete his review
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under My Account, click on My Reviews
+4.Select one review
+5.At Manage tab, select Delete
+6.At confirmation box, select Delete
+
+
+Expected Result:
+1.Review should be deleted and not displayed anymore
+
+
+
+Test Case 45. To verify that user can check recently viewed properties
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under My Account, click on Recently Viewed Properties
+
+
+Expected Result:
+1.All of customer’s recently viewed properties should display
+Test Case 46. To verify that user can check Saved Searches
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under My Account, click on Saved Searches
+
+
+Expected Result:
+1.All of customer’s Saved Searches should display
+
+
+Test Case 47. To verify that user can remove map boundary in map
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2. At Map , Click on Remove Map Boundary
+Expected Result:
+1.Boundaries in the map should be removed
+
+Test Case 48. To verify that user is redirected to another page when he click on Advice
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Click on advice
+
+Expected Result:
+1.User should be redirected to another page
+Test Case 49. To verify that user can access the page while minimizing the browser
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.Minimize the browser
+
+Expected Result:
+1.User should be accessed well after minimizing the browser
+2.All the texts and images should display well
+
+Test Case 50. To verify that user can logout
+
+Steps: 
+1.Access https://www.fazwaz.com/property-for-sale/thailand on mobile browser or laptop browser.
+2.At the right side of the page, tap on Side bar
+3.Under My Account, click on Logout
+
+
+Expected Result:
+1.User should be  logged out from system immediately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
